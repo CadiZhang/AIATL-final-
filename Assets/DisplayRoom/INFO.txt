@@ -1,0 +1,10 @@
+The Package contains a modern gallery showroom (VR Ready)
+The room is semi-modular.You can disable or 
+change the placements of the Walls,Tree,Stone,Glass Stairs.
+
+INFO: Models - 4(Empty Room,Display Walls,Tree,Glass Stair)
+	Prefabs - 5(Empty Room,Display Walls,Tree,Glass Stair,Complete Room)
+	Triangles - 30K(Complete Room)
+	PBR Materials with 4K Textures
+	NO Custom Shaders
+	Including Mesh Coliders
